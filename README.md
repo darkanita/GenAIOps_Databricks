@@ -48,5 +48,5 @@ El notebook incluye:
 
 ## 🚀 Autor / Créditos
 
-Demo creada como parte de la charla **"Del Laboratorio a Producción: Cómo Azure Databricks Impulsa Agentes Autónomos"**, para PyCon 2025.
+Demo creada como parte de la charla **"Del Laboratorio a Producción: Cómo Azure Databricks Impulsa Agentes Autónomos"**, para GDCFusion 2025.
 
